@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Subash Chakravarthy</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=700&height=50&duration=4000&lines=AI+|+ Data+Analytics+|+Machine+Learning+|+Data+Engineering+|+Visualization" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=700&height=50&duration=4000&lines=AI+|+Data+Analytics+|+Machine+Learning+|+Data+Engineering+|+Visualization" />
 </h3>
 
 <p align="center">
