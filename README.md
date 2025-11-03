@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <!-- ✨ Subash Chakravarthy | Advanced GitHub Profile README ✨ -->
 
 <h1 align="center">Hi 👋, I'm Subash Chakravarthy</h1>
