@@ -3,9 +3,10 @@
 
 <h1 align="center">Hi 👋, I'm Subash Chakravarthy</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=700&height=50&duration=4000&lines=AI+|+Data+Analytics+|+Machine+Learning+|+Data+Engineering+|+Visualization" />
+<<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=45&duration=4000&lines=AI+|+Data+Analytics+|+ML+|+Data+Engineering" />
 </h3>
+
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
