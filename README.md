@@ -30,15 +30,12 @@
 - Predictive analytics for **Traumatic Brain Injury (TBI)** symptom tracking  
 - Designed a **Power BI dashboard** with advanced engagement scoring  
 - **Tech:** PySpark, Snowflake, Power BI, Python  
-- #[📂 Repo Link](https://github.com/subash1702/TBI-Analytics)
-
 ---
 
 ### 🚦 **NYC Traffic Volume Analysis**
 - Forecasted NYC traffic volume using **event and weather datasets**  
 - Combined **Gradient Boosting, Random Forest & Logistic Regression** models  
 - Integrated **geospatial heatmaps and interactive visualizations**  
-- #[📂 Repo Link](https://github.com/subash1702/NYC-Traffic-Analysis)
 
 ---
 
@@ -46,7 +43,7 @@
 - Futuristic AI data platform integrating **LLMs and Neo4j Graph Intelligence**  
 - Clean **Streamlit UI/UX** for multi-modal insights  
 - Built modular **data ingestion and knowledge graph** pipelines  
-- #[📂 Repo Link](https://github.com/subash1702/NEXORA)
+
 
 ---
 
@@ -54,7 +51,7 @@
 - NLP-based tool for **resume-to-job-description similarity scoring**  
 - Utilized **Sentence Transformers** and cosine similarity for ranking  
 - Deployed on **Streamlit** with an interactive frontend  
-- #[📂 Repo Link](https://github.com/subash1702/AI-resume-and-Jd-matcher)
+
 
 ---
 
@@ -62,7 +59,6 @@
 - Built a full ML pipeline predicting **accident severity** from traffic & weather data  
 - Applied **EDA, feature engineering, and hyperparameter tuning**  
 - **Tech:** Python, scikit-learn, Matplotlib  
-- [📂 Repo Link](https://github.com/subash1702/us-accidents-severity-analysis)
 
 ---
 
@@ -70,28 +66,26 @@
 - Predicted housing prices using **Artificial Neural Networks (ANN)**  
 - Compared ANN vs Linear Regression & Random Forest models  
 - Visualized market trends and prediction accuracy  
-- #[📂 Repo Link](https://github.com/subash1702/real-estate-ann)
+
 
 ---
 
 ### 🐦 **Bird Species Recognition (CNN)**
 - Classified 200+ bird species using **Convolutional Neural Networks**  
 - Achieved **92% accuracy** and visualized filters & feature maps  
-- [#📂 Repo Link](https://github.com/subash1702/bird-species-cnn)
+
 
 ---
 
 ### 💉 **Brain Tumor Detection (Neural Network)**
 - Developed an **ANN model** to detect tumor presence from MRI images  
 - Visualized results via Grad-CAM for interpretability  
-- #[📂 Repo Link](https://github.com/subash1702/brain-tumor-detection)
 
 ---
 
 ### 🏥 **Emergency Medical System (EMS-DBMS)**
 - Built an **SQL-based database system** for medical emergency tracking  
 - Designed ER schema & optimized queries for real-time reporting  
-- #[📂 Repo Link](https://github.com/subash1702/ems-dbms)
 
 ---
 
