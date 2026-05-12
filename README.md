@@ -17,7 +17,7 @@
 <img align="right" width="280" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🎓 Pursuing **Master’s in Analytics @ Northeastern University, Boston**  
-- 💼 Former **Business Analyst @ Ace Tech IT Services** | **Data Intern @ Emirates Transformers**  
+- 💼 Former **Data Engineer @ Ace Tech IT Services** | **Data Intern @ Emirates Transformers**  
 - 💡 Working on **ML, LLM apps, and predictive analytics projects**  
 - 🧩 Passionate about **data pipelines, AI visualization, and model interpretability**  
 - ⚡ Fun fact: I merge **AI models, geospatial maps, and dashboards** to tell real stories  
