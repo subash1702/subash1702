@@ -1,171 +1,279 @@
-<!-- ✨ Subash Chakravarthy | Advanced GitHub Profile README ✨ -->
+<!-- Subash Chakravarthy | GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Subash Chakravarthy</h1>
+<h1 align="center">Subash Chakravarthy</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=45&duration=4000&lines=AI+|+Data+Analytics+|+ML+|+Data+Engineering" />
+  Data Engineer | Cloud Data Platforms | Streaming Systems | Applied AI
 </h3>
 
-
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 🧠 About Me
-<img align="right" width="280" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-- 🎓 Pursuing **Master’s in Analytics @ Northeastern University, Boston**  
-- 💼 Former **Data Engineer @ Ace Tech IT Services** | **Data Intern @ Emirates Transformers**  
-- 💡 Working on **ML, LLM apps, and predictive analytics projects**  
-- 🧩 Passionate about **data pipelines, AI visualization, and model interpretability**  
-- ⚡ Fun fact: I merge **AI models, geospatial maps, and dashboards** to tell real stories  
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 **TBI Analytics Dashboard (Power of Patients)**
-- Predictive analytics for **Traumatic Brain Injury (TBI)** symptom tracking  
-- Designed a **Power BI dashboard** with advanced engagement scoring  
-- **Tech:** PySpark, Snowflake, Power BI, Python  
----
-
-### 🚦 **NYC Traffic Volume Analysis**
-- Forecasted NYC traffic volume using **event and weather datasets**  
-- Combined **Gradient Boosting, Random Forest & Logistic Regression** models  
-- Integrated **geospatial heatmaps and interactive visualizations**  
-
----
-
-### 🤖 **NEXORA**
-- Futuristic AI data platform integrating **LLMs and Neo4j Graph Intelligence**  
-- Clean **Streamlit UI/UX** for multi-modal insights  
-- Built modular **data ingestion and knowledge graph** pipelines  
-
-
----
-
-### 🧬 **AI Resume–JD Matcher**
-- NLP-based tool for **resume-to-job-description similarity scoring**  
-- Utilized **Sentence Transformers** and cosine similarity for ranking  
-- Deployed on **Streamlit** with an interactive frontend  
-
-
----
-
-### 📈 **US Accident Severity Analysis**
-- Built a full ML pipeline predicting **accident severity** from traffic & weather data  
-- Applied **EDA, feature engineering, and hyperparameter tuning**  
-- **Tech:** Python, scikit-learn, Matplotlib  
-
----
-
-### 🧩 **Real Estate Price Prediction**
-- Predicted housing prices using **Artificial Neural Networks (ANN)**  
-- Compared ANN vs Linear Regression & Random Forest models  
-- Visualized market trends and prediction accuracy  
-
-
----
-
-### 🐦 **Bird Species Recognition (CNN)**
-- Classified 200+ bird species using **Convolutional Neural Networks**  
-- Achieved **92% accuracy** and visualized filters & feature maps  
-
-
----
-
-### 💉 **Brain Tumor Detection (Neural Network)**
-- Developed an **ANN model** to detect tumor presence from MRI images  
-- Visualized results via Grad-CAM for interpretability  
-
----
-
-### 🏥 **Emergency Medical System (EMS-DBMS)**
-- Built an **SQL-based database system** for medical emergency tracking  
-- Designed ER schema & optimized queries for real-time reporting  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### 📊 Data & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-006600?style=for-the-badge)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFD43B?style=for-the-badge)
-
-### ☁️ Cloud & Big Data
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge)
-
-### 🧭 Visualization & BI
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=subash1702&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subash1702&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subash1702&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 🌱 Currently Exploring
-- 📡 Building **real-time pipelines** using Kafka → Snowflake → Power BI  
-- 🧩 Developing **LLM-powered analytics assistants**  
-- 📈 Forecasting **time series data** using Prophet, LSTM, and XGBoost  
-- 🧠 Working on **AI explainability & model monitoring**
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/subash-chakravarthy-4944a0212/">
-    <img src="https://img.shields.io/badge/LinkedIn-Subash%20Chakravarthy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://subash1702.github.io/subash-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/subash1702">
-    <img src="https://img.shields.io/badge/GitHub-subash1702-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/subash-chakravarthy-4944a0212/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:subash170202@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-subash170202%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="mailto:chakravarthy.sub@northeastern.edu">
-    <img src="https://img.shields.io/badge/Email-chakravarthy.sub%40northeastern.edu-8A2BE2?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-**Email:**  
-- Personal: <a href="mailto:subash170202@gmail.com">subash170202@gmail.com</a>  
-- School: <a href="mailto:chakravarthy.sub@northeastern.edu">chakravarthy.sub@northeastern.edu</a>
+---
+
+## About Me
+
+I am a **Data Engineer and recent Master’s in Analytics graduate from Northeastern University**. I build reliable batch, streaming, cloud, analytics, and AI data systems from ingestion through production.
+
+My work focuses on scalable data pipelines, warehouse modeling, data quality, orchestration, infrastructure automation, observability, and production-oriented AI applications.
+
+* Former **Data Engineer at Ace Tech IT Services**
+* Former **Data Analyst Intern at Emirates Transformers and Switchgears**
+* Experienced with **AWS, PySpark, Kafka, Airflow, dbt, Snowflake, Databricks, Terraform, and Docker**
+* Built production-style systems across **batch processing, streaming ingestion, CDC, data quality, RAG, and LLM evaluation**
+* Interested in solving reliability, governance, metadata, and observability problems in modern data platforms
 
 ---
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+collaborate+on+Data+and+AI+Projects!" />
-</h3>
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AWS Retail Data Platform
+
+Production-style cloud data platform that processes retail data through automated ingestion, transformation, testing, orchestration, and infrastructure deployment.
+
+**Engineering highlights**
+
+* Built batch pipelines using Python and PySpark
+* Orchestrated workflows with Apache Airflow
+* Modeled analytics-ready data using dbt
+* Provisioned cloud infrastructure using Terraform
+* Added automated validation and quality gates
+* Designed for reproducible local and cloud deployment
+
+**Tech:** AWS, PySpark, Airflow, dbt, Redshift, Glue, Lambda, S3, Terraform
+
+<a href="https://github.com/subash1702/aws-retail-data-platform">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="AWS Retail Data Platform Repository" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### Dual-Layer E-Commerce Data Platform
+
+Streaming and batch data platform designed to produce consistent analytical results across independently processed data layers.
+
+**Engineering highlights**
+
+* Built independent Kafka streaming and batch consumers
+* Implemented idempotent PostgreSQL ingestion
+* Handled duplicate and late-arriving events
+* Created 22 dbt tests for quality and consistency
+* Reconciled streaming and batch outputs
+* Dockerized the complete local environment
+
+**Tech:** Kafka, PostgreSQL, Python, dbt, Docker, SQL
+
+<a href="https://github.com/subash1702/dual-layer-ecommerce">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Dual-Layer E-Commerce Repository" />
+</a>
+<a href="https://subash1702.github.io/subash-portfolio/work/dual-layer-ecommerce.html">
+  <img src="https://img.shields.io/badge/View%20Case%20Study-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Dual-Layer E-Commerce Case Study" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Enterprise RAG Knowledge Assistant
+
+Source-cited enterprise knowledge assistant combining hybrid document retrieval, structured data access, conversational lineage, caching, and agent orchestration.
+
+**Engineering highlights**
+
+* Indexed and searched more than 2,000 documents
+* Combined FAISS dense retrieval with BM25 sparse retrieval
+* Added re-ranking and metadata filtering
+* Built a LangGraph agent for documents, SQL, and web tools
+* Implemented asynchronous APIs with FastAPI
+* Stored conversation lineage in MongoDB
+* Reduced repeated-query latency with Redis caching
+
+**Results**
+
+* Improved RAGAS context recall by 14 percentage points
+* Achieved approximately 87% evaluated question-answer accuracy
+* Maintained approximately 2-second p95 response latency
+
+**Tech:** LangGraph, LangChain, FastAPI, FAISS, BM25, MongoDB, Redis, Streamlit, Docker
+
+<a href="https://github.com/subash1702/enterprise-rag-knowledge-assistant">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Enterprise RAG Repository" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### LLM Evaluation and Prompt Regression Platform
+
+Evaluation platform for testing prompts, comparing model behavior, detecting regressions, and safely managing prompt versions.
+
+**Engineering highlights**
+
+* Built evaluation and prompt-management APIs
+* Created a versioned prompt registry with rollback support
+* Tracked experiment and evaluation lineage
+* Added scheduled nightly evaluation workflows
+* Integrated caching and experiment tracking
+* Packaged services using Docker Compose
+* Added CI workflows for repeatable validation
+
+**Tech:** FastAPI, PostgreSQL, Redis, MLflow, Airflow, Ragas, Streamlit, Docker
+
+<a href="https://github.com/subash1702/llm-evaluation-prompt-regression-platform">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="LLM Evaluation Platform Repository" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### NEXORA Knowledge Graph Platform
+
+Explainable document-to-knowledge-graph platform that converts unstructured content into evidence-backed entities and relationships.
+
+**Engineering highlights**
+
+* Built modular document-ingestion pipelines
+* Extracted entities and relationships using LLMs
+* Stored graph structures in Neo4j
+* Added evidence references for generated relationships
+* Implemented Cypher-based graph exploration
+* Built an interactive Streamlit interface
+
+**Tech:** Python, Neo4j, Cypher, LLMs, Streamlit, NLP
+
+<a href="https://github.com/subash1702/NEXORA">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="NEXORA Repository" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### NYC Traffic and Event Impact Analysis
+
+Analytics pipeline combining traffic-count and permitted-event data to study congestion patterns and evaluate the predictive value of available features.
+
+**Engineering highlights**
+
+* Processed more than 1.7 million traffic-count records
+* Integrated traffic and permitted-event datasets
+* Built temporal, geographic, and event-based features
+* Compared regression and classification models
+* Created geospatial and interactive visualizations
+* Documented limitations and opportunities for stronger forecasting data
+
+**Tech:** Python, pandas, scikit-learn, XGBoost, Plotly, Geospatial Analytics
+
+<a href="https://github.com/subash1702/NYC-Traffic-Volume-Prediction-">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="NYC Traffic Repository" />
+</a>
+<a href="https://subash1702.github.io/subash-portfolio/work/nyc-traffic.html">
+  <img src="https://img.shields.io/badge/View%20Case%20Study-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="NYC Traffic Case Study" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technical Skills
+
+### Data Engineering
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square\&logo=apachespark\&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square\&logo=apachespark\&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square\&logo=apachekafka\&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square\&logo=apacheairflow\&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square\&logo=dbt\&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square\&logo=databricks\&logoColor=white)
+
+### Cloud and Warehousing
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square\&logo=snowflake\&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=flat-square\&logo=amazonredshift\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+
+### Programming and Transformation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square\&logo=postgresql\&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square\&logo=scala\&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square\&logo=r\&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+
+### Infrastructure, Quality, and Delivery
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square\&logo=terraform\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![Great Expectations](https://img.shields.io/badge/Great%20Expectations-FF6B35?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+
+### Applied AI and APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square\&logo=neo4j\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+
+---
+
+## Current Focus
+
+I am currently expanding my work in:
+
+* Metadata-driven data platforms and automated lineage
+* MCP integrations for data catalogs and governance systems
+* Change-impact analysis for data pipelines
+* Real-time CDC architectures
+* Data observability and contract-driven pipelines
+* Production evaluation and monitoring for AI systems
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=subash1702&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Subash's GitHub statistics" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subash1702&layout=compact&hide_border=true&langs_count=8" alt="Subash's most used languages" />
+</p>
+
+---
+
+## Let’s Connect
+
+I am actively exploring **Data Engineer, Analytics Engineer, Data Platform Engineer, and Applied AI Engineer** opportunities.
+
+* **Portfolio:** [subash1702.github.io/subash-portfolio](https://subash1702.github.io/subash-portfolio/)
+* **GitHub:** [github.com/subash1702](https://github.com/subash1702)
+* **LinkedIn:** [linkedin.com/in/subash-chakravarthy-4944a0212](https://www.linkedin.com/in/subash-chakravarthy-4944a0212/)
+* **Email:** [subash170202@gmail.com](mailto:subash170202@gmail.com)
+
+<p align="center">
+  <strong>Building reliable data systems from ingestion to production.</strong>
+</p>
